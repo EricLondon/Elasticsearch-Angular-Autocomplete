@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('esAutocomplete')
+    .module('elasticsearchAutocomplete')
     .run(runBlock);
 
   /** @ngInject */

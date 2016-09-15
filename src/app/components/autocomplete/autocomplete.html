@@ -1,0 +1,14 @@
+<form class="form-inline">
+  <div class="form-group">
+    <label class="sr-only" for="search-q">Search text</label>
+    <input type="text" class="form-control" id="search-q" placeholder="Search text" ng-model="vm.q" autocomplete="off">
+  </div>
+  <button type="submit" class="btn btn-primary" ng-click="vm.search()">Search</button>
+  <button type="submit" class="btn btn-default" ng-click="vm.clearSearch()">Clear</button>
+</form>
+<ul class="list-group" ng-if="vm.hasAutocompleteResults">
+  <li class="list-group-item" ng-repeat="result in vm.autocompleteResults" ng-click="vm.autocompleteResultClick(result)">
+    {{ result.text }}
+  </li>
+</ul>
+<pre ng-if="vm.clickedResult">{{ vm.clickedResult }}</pre>

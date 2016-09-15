@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('esAutocomplete', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngAria', 'ngRoute', 'ui.bootstrap', 'toastr']);
+    .module('elasticsearchAutocomplete', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngAria', 'ngRoute', 'ui.bootstrap']);
 
 })();

@@ -1,5 +1,5 @@
 {
-  "name": "esAutocomplete",
+  "name": "elasticsearchAutocomplete",
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
