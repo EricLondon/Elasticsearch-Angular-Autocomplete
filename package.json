@@ -41,7 +41,7 @@
     "phantomjs": "~1.9.18",
     "karma-angular-filesort": "~1.0.0",
     "karma-phantomjs-shim": "~1.2.0",
-    "karma-coverage": "~0.5.2",
+    "karma-coverage": "~2.2.1",
     "karma-ng-html2js-preprocessor": "~0.2.0",
     "browser-sync": "~2.9.11",
     "browser-sync-spa": "~1.0.3",
