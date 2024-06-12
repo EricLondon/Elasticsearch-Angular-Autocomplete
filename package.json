@@ -33,7 +33,7 @@
     "gulp-sourcemaps": "~1.6.0",
     "gulp-sass": "~5.1.0",
     "gulp-angular-filesort": "~1.2.1",
-    "main-bower-files": "~2.9.0",
+    "main-bower-files": "~2.13.3",
     "wiredep": "~4.0.0",
     "karma": "~6.4.3",
     "karma-jasmine": "~5.1.0",
