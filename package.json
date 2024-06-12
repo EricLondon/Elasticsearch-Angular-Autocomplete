@@ -37,7 +37,7 @@
     "wiredep": "~4.0.0",
     "karma": "~6.4.3",
     "karma-jasmine": "~5.1.0",
-    "karma-phantomjs-launcher": "~0.2.1",
+    "karma-phantomjs-launcher": "~1.0.4",
     "phantomjs": "~2.1.7",
     "karma-angular-filesort": "~1.0.0",
     "karma-phantomjs-shim": "~1.5.0",
