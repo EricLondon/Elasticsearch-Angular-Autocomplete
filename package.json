@@ -30,7 +30,7 @@
     "gulp-htmlmin": "~5.0.1",
     "gulp-inject": "~5.0.5",
     "gulp-protractor": "~4.1.1",
-    "gulp-sourcemaps": "~1.6.0",
+    "gulp-sourcemaps": "~3.0.0",
     "gulp-sass": "~5.1.0",
     "gulp-angular-filesort": "~1.2.1",
     "main-bower-files": "~2.13.3",
