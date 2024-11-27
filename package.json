@@ -31,7 +31,7 @@
     "gulp-inject": "~5.0.5",
     "gulp-protractor": "~4.1.1",
     "gulp-sourcemaps": "~3.0.0",
-    "gulp-sass": "~5.1.0",
+    "gulp-sass": "~6.0.0",
     "gulp-angular-filesort": "~1.2.1",
     "main-bower-files": "~2.13.3",
     "wiredep": "~4.0.0",
