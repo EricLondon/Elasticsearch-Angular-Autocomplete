@@ -10,7 +10,7 @@
     "gulp": "~5.0.0",
     "gulp-autoprefixer": "~10.0.0",
     "gulp-angular-templatecache": "~3.0.1",
-    "del": "~8.0.0",
+    "del": "~9.0.1",
     "lodash": "~4.18.1",
     "gulp-cssnano": "~2.1.1",
     "gulp-filter": "~10.0.0",
